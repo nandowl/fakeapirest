@@ -1,0 +1,15 @@
+{
+  "name": "apirestfake",
+  "version": "1.0.0",
+  "description": "Api Rest Fake para Desafio de Projeto Para a Vaga Dev Front Jr",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Nando Piattelli",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
